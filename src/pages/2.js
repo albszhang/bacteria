@@ -1,7 +1,7 @@
 import React from "react"
 import { Link } from "gatsby"
 
-import Layout from "../components/layout"
+// import Layout from "../components/layout"
 import Image from "../components/image"
 import SEO from "../components/seo"
 
@@ -13,7 +13,7 @@ import galaxy from '../images/galaxy.png'
 const SecondPage = () => (
 // <Layout>
 <div>
-
+<SEO title="_." />
 <div class="d-flex align-items-center justify-content-center customHeight fade-in">
   <div class='row'>
     <div class='col-2'/>

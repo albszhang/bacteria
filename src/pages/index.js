@@ -30,13 +30,13 @@ const IndexPage = () => (
 
 */}
 
-
+  <SEO title="_" />
 
 <div class="d-flex align-items-center justify-content-center customHeight fade-in">
   <div class='row'>
     <div class='col-1'/>
     <div class='col'>
-      <img src={moon} width='500vh' />
+      <img src={moon} width='250vh' />
               <p style={{paddingTop: '1px'}}><Link to="/2">_</Link></p>
     </div>
       <div class='col-2 align-items-end justify-content-end'>
